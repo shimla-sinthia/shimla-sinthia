@@ -11,11 +11,11 @@
 <a href="https://linkedin.com/in/mst-shimla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mst-shimla" height="30" width="40" /></a>
 <a href="https://fb.com/shimla.sinthia.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shimla.sinthia.2024" height="30" width="40" /></a>
 <a href="https://medium.com/shimla.sinthia.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shimla.sinthia.bd" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/s_semicolon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="s_semicolon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/s_semicolon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_semicolon" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_shimla_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_shimla_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/s_semicolon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="s_semicolon" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shimla_sinthia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shimla_sinthia" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/shimla.sinthia.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shimla.sinthia.bd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/s_semicolon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_semicolon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
